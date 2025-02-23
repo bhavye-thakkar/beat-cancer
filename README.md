@@ -22,8 +22,7 @@
 4. ⚙️ [Setup and Deployment](#setup-and-deployment)
 5. 🚀 [Usage](#usage)
 6. 🌠 [Gemini AI Integration](#gemini-ai-integration)
-7. 🤝 [Contributing](#contributing)
-8. 📜 [License](#license)
+
 
 ## 🤖 Introduction
 
